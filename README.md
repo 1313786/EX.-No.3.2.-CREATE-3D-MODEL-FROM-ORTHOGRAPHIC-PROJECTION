@@ -44,8 +44,8 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
+![Uploading WhatsApp Image 2024-12-25 at 13.20.47_125a2bf2.jpg…]()
 
-![Uploading WhatsApp Image 2024-12-25 at 13.20.51_c6f0cabe.jpg…]()
 
 
 
